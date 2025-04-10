@@ -1,0 +1,46 @@
+.teeth-card {
+  display: grid;
+  grid-template-columns: repeat(26, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 2px;
+  grid-row-gap: 4px;
+}
+
+.teeth-scroll::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+.teeth-scroll::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+.teeth-scroll::-webkit-scrollbar-thumb {
+  background: #88c680;
+  border: 0px none #ffffff;
+  border-radius: 55px;
+}
+.teeth-scroll::-webkit-scrollbar-thumb:hover {
+  background: #88c680;
+  cursor: pointer;
+}
+.teeth-scroll::-webkit-scrollbar-thumb:active {
+  background: #88c680;
+}
+.teeth-scroll::-webkit-scrollbar-track {
+  background: #fcfcfc;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+.teeth-scroll::-webkit-scrollbar-track:hover {
+  background: #ffffff;
+}
+.teeth-scroll::-webkit-scrollbar-track:active {
+  background: #ffffff;
+}
+.teeth-scroll::-webkit-scrollbar-corner {
+  background: transparent;
+}
+/* .dStyle{
+  -webkit-clip-path: polygon(51% 2%, 80% 15%, 100% 46%, 72% 100%, 61% 88%, 50% 83%, 37% 88%, 27% 100%, 0 48%, 22% 13%);
+  clip-path: polygon(51% 2%, 80% 15%, 100% 46%, 72% 100%, 61% 88%, 50% 83%, 37% 88%, 27% 100%, 0 48%, 22% 13%);
+} */

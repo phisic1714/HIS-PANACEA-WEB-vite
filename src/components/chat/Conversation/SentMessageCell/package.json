@@ -1,0 +1,9 @@
+{
+  "name": "SentMessageCell",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./index.js",
+  "dependencies": {
+    "SentMessageCell": "file:"
+  }
+}

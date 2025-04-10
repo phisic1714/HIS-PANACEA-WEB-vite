@@ -1,0 +1,156 @@
+/* 
+@font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: italic;
+    font-weight: 100;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVnJx26TKEr37c9aBBx_kwfzg3upg.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: italic;
+    font-weight: 200;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVkJx26TKEr37c9aBBxUl0c_SjTnwE.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVkJx26TKEr37c9aBBxNl4c_SjTnwE.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVhJx26TKEr37c9aBB5iXwJ1gk.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVkJx26TKEr37c9aBBxbl8c_SjTnwE.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVkJx26TKEr37c9aBBxQlgc_SjTnwE.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVkJx26TKEr37c9aBBxJlkc_SjTnwE.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: italic;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVkJx26TKEr37c9aBBxOloc_SjTnwE.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVhJx26TKEr37c9YHZ5iXwJ1gk.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVmJx26TKEr37c9YNpoik8s6zDX.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVmJx26TKEr37c9YL5rik8s6zDX.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVjJx26TKEr37c9aAFJn2QN.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVmJx26TKEr37c9YOZqik8s6zDX.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVmJx26TKEr37c9YMptik8s6zDX.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVmJx26TKEr37c9YK5sik8s6zDX.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+  
+  
+  @font-face {
+    font-family: 'Angsana New', 'Sarabun';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sarabun/v13/DtVmJx26TKEr37c9YLJvik8s6zDX.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+  }
+   */
