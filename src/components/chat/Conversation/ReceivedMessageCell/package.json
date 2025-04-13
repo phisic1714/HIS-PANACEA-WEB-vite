@@ -1,9 +1,0 @@
-{
-  "name": "ReceivedMessageCell",
-  "version": "0.0.0",
-  "private": true,
-  "main": "./index.js",
-  "dependencies": {
-    "ReceivedMessageCell": "file:"
-  }
-}
